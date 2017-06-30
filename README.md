@@ -1,0 +1,2 @@
+# Clanguage_sample_code1
+C言語のサンプルコードその１
